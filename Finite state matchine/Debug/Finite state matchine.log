@@ -1,0 +1,34 @@
+﻿Build started 21/04/2014 9:04:33 AM.
+     1>Project "C:\Users\Kangkang\Desktop\Finite state matchine\Finite state matchine\Finite state matchine.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Finite state matchine.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Finite state matchine.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Finite state matchine.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Finite state matchine.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Finite state matchine.cpp"
+         Finite state matchine.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Finite state matchine.exe.embed.manifest.res" "Debug\Finite state matchine_manifest.rc" 
+       Link:
+         F:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Finite state matchine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.lib" /MACHINE:X86 "Debug\Finite state matchine.exe.embed.manifest.res"
+         "Debug\Finite state matchine.obj"
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\Finite state matchine.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Finite state matchine.exe.embed.manifest" /manifest "Debug\Finite state matchine.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Finite state matchine.exe.embed.manifest.res" "Debug\Finite state matchine_manifest.rc" 
+       LinkEmbedManifest:
+         F:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Finite state matchine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.lib" /MACHINE:X86 "Debug\Finite state matchine.exe.embed.manifest.res"
+         "Debug\Finite state matchine.obj"
+         Debug\stdafx.obj
+         Finite state matchine.vcxproj -> C:\Users\Kangkang\Desktop\Finite state matchine\Debug\Finite state matchine.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Finite state matchine.unsuccessfulbuild".
+         Touching "Debug\Finite state matchine.lastbuildstate".
+     1>Done Building Project "C:\Users\Kangkang\Desktop\Finite state matchine\Finite state matchine\Finite state matchine.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.45
